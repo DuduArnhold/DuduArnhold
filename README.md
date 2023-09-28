@@ -1,7 +1,7 @@
 ### Olá me chamo José Eduardo Arnhold 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duduarnhold/)
-[![Portfólio](https://img.shields.io/website?label=portfoliojoseeduardo&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://portfoliojoseeduardo.vercel.app/)
+[![Portfólio](https://img.shields.io/website?label=portfoliojoseeduardo&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://portfolio-react-eta-eosin.vercel.app/)
 
 
 ![DuduArnhold´s GitHub stats](https://github-readme-stats.vercel.app/api?username=DuduArnhold&show_icons=true&theme=onedark)
