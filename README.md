@@ -23,13 +23,13 @@ Depois de um tempo afastado, voltei em 2025 com tudo: Next.js, TypeScript e foco
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </div>
 
-### 🔥 Projetos em destaque
-| Projeto                  | Descrição                                                      | Techs                         | Live / Repo                                    |
-|--------------------------|----------------------------------------------------------------|-------------------------------|------------------------------------------------|
-| **Tarefas Plus**         | To-do completo com login Google + Firebase                    | Next.js • TS • Firebase       | [Demo](https://tarefas-plus.vercel.app)        |
-| **E-commerce Platform**  | Loja com carrinho persistente e painel admin                  | React • Context • Tailwind    | [Repo](https://github.com/DuduArnhold/ecommerce) |
-| **Dashboard Analytics**  | Dashboard com gráficos reais e dark mode                       | Next.js • Recharts • TS       | [Repo](https://github.com/DuduArnhold/dashboard) |
-| **Portfólio 2025**       | Este site que você acabou de ver                               | Next.js • Tailwind • Framer   | [Live](https://portfolio-react-eta-eosin.vercel.app) |
+### Projetos em destaque
+| Projeto                  | Descrição                                                      | Techs                          | Links                                          |
+|--------------------------|----------------------------------------------------------------|--------------------------------|------------------------------------------------|
+| **Tarefas Plus**         | To-do completo com login Google + Firebase                    | Next.js • TypeScript • Firebase| [Demo](https://tarefas-plus.vercel.app) • [Repo](https://github.com/DuduArnhold/tarefas-plus) |
+| **Web Carros**           | Site de concessionária com filtros, busca e modal de detalhes | React • Tailwind • Context     | [Demo](https://web-carros-duduarnhold.vercel.app) • [Repo](https://github.com/DuduArnhold/web-carros) |
+| **DevLinks**             | Agregador de links estilo Linktree com dark mode e responsivo | Next.js • Tailwind • TypeScript| [Demo](https://devlinks-duduarnhold.vercel.app) • [Repo](https://github.com/DuduArnhold/devlinks) |
+| **Portfólio 2025**       | Este site que você está vendo agora                            | Next.js • Tailwind • Framer Motion | [Live](https://portfolio-react-eta-eosin.vercel.app) |
 
 ### 📊 GitHub Stats
 <div align="center">
