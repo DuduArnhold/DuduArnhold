@@ -1,7 +1,6 @@
 # E aí, eu sou o José Eduardo (Dudu) 👋
 
-<img align="right" src="<img width="931" height="797" alt="image" src="https://github.com/user-attachments/assets/2ee1e6a6-d10b-47e1-807e-557b59ea55cc" />
-" width="320" alt="ilustração de perfil"/>
+<img align="right" src="<img src="https://github.com/user-attachments/assets/2ee1e6a6-d10b-47e1-807e-557b59ea55cc" />
 
 **Front-end Developer** apaixonado por interfaces modernas, código limpo e experiências que convertem.
 
@@ -30,6 +29,7 @@ Depois de um tempo afastado, voltei em 2025 com tudo: Next.js, TypeScript e foco
 | **Web Carros**           | Site de concessionária com filtros, busca e modal de detalhes | React • Tailwind • Context     | [Demo](https://web-carros-duduarnhold.vercel.app) • [Repo](https://github.com/DuduArnhold/WebCarros) |
 | **DevLinks**             | Agregador de links estilo Linktree com dark mode e responsivo | Next.js • Tailwind • TypeScript| [Demo](https://dev-tree-flax.vercel.app/) • [Repo](https://github.com/DuduArnhold/linktree) |
 | **Portfólio 2025**       | Este site que você está vendo agora                            | Next.js • Tailwind • Framer Motion | [Live](https://portfolio-react-eta-eosin.vercel.app) |
+| **PrimeFlix**            | Clone da Netflix com busca, detalhes e favoritos               | React • API TMDB • Tailwind    | [Demo](https://primeflix-topaz.vercel.app/) • [Repo](https://github.com/DuduArnhold/primeflix) |
 
 ### 📊 GitHub Stats
 <div align="center">
