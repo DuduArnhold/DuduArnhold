@@ -27,8 +27,8 @@ Depois de um tempo afastado, voltei em 2025 com tudo: Next.js, TypeScript e foco
 | Projeto                  | Descrição                                                      | Techs                          | Links                                          |
 |--------------------------|----------------------------------------------------------------|--------------------------------|------------------------------------------------|
 | **Tarefas Plus**         | To-do completo com login Google + Firebase                    | Next.js • TypeScript • Firebase| [Demo](https://tarefas-plus.vercel.app) • [Repo](https://github.com/DuduArnhold/tarefas-plus) |
-| **Web Carros**           | Site de concessionária com filtros, busca e modal de detalhes | React • Tailwind • Context     | [Demo](https://web-carros-duduarnhold.vercel.app) • [Repo](https://github.com/DuduArnhold/web-carros) |
-| **DevLinks**             | Agregador de links estilo Linktree com dark mode e responsivo | Next.js • Tailwind • TypeScript| [Demo](https://devlinks-duduarnhold.vercel.app) • [Repo](https://github.com/DuduArnhold/devlinks) |
+| **Web Carros**           | Site de concessionária com filtros, busca e modal de detalhes | React • Tailwind • Context     | [Demo](https://web-carros-duduarnhold.vercel.app) • [Repo](https://github.com/DuduArnhold/WebCarros) |
+| **DevLinks**             | Agregador de links estilo Linktree com dark mode e responsivo | Next.js • Tailwind • TypeScript| [Demo](https://dev-tree-flax.vercel.app/) • [Repo](https://github.com/DuduArnhold/linktree) |
 | **Portfólio 2025**       | Este site que você está vendo agora                            | Next.js • Tailwind • Framer Motion | [Live](https://portfolio-react-eta-eosin.vercel.app) |
 
 ### 📊 GitHub Stats
