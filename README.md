@@ -1,6 +1,6 @@
 # E aí, eu sou o José Eduardo (Dudu) 👋
 
-<src="<img src="https://github.com/user-attachments/assets/2ee1e6a6-d10b-47e1-807e-557b59ea55cc" />
+<img src="https://github.com/user-attachments/assets/2ee1e6a6-d10b-47e1-807e-557b59ea55cc" />
 
 **Front-end Developer** apaixonado por interfaces modernas, código limpo e experiências que convertem.
 
